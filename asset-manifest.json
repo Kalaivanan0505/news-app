@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/GeekyAnts/nativebase-templates/static/js/main.6c139dc9.js",
+    "static/js/846.ed7cd0d1.js": "/GeekyAnts/nativebase-templates/static/js/846.ed7cd0d1.js",
+    "favicon.ico": "/GeekyAnts/nativebase-templates/favicon.ico",
+    "index.html": "/GeekyAnts/nativebase-templates/index.html",
+    "favicon-32.png": "/GeekyAnts/nativebase-templates/favicon-32.png",
+    "static/media/no-image-placeholder.png": "/GeekyAnts/nativebase-templates/static/media/no-image-placeholder.9ab69b73301cb99d1868.png",
+    "favicon-16.png": "/GeekyAnts/nativebase-templates/favicon-16.png",
+    "serve.json": "/GeekyAnts/nativebase-templates/serve.json",
+    "manifest.json": "/GeekyAnts/nativebase-templates/manifest.json",
+    "main.6c139dc9.js.map": "/GeekyAnts/nativebase-templates/static/js/main.6c139dc9.js.map",
+    "846.ed7cd0d1.js.map": "/GeekyAnts/nativebase-templates/static/js/846.ed7cd0d1.js.map"
+  },
+  "entrypoints": [
+    "static/js/846.ed7cd0d1.js",
+    "static/js/main.6c139dc9.js"
+  ]
+}
