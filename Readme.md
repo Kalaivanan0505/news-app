@@ -12,7 +12,7 @@ ios: yarn ios or
 android: yarn andriod
 ```
 
-#To run the test cases
+# To run the test cases
 
 ```sh
 yarn test
