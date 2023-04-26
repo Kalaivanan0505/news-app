@@ -16,9 +16,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d web-build",
+    "predeploy": "expo export:web",
     "test": "jest"
   },
   "dependencies": {
