@@ -2,7 +2,7 @@
 
 ```sh
 yarn install or npm install
-```sh
+```
 
 # To run the application
 
@@ -10,13 +10,13 @@ yarn install or npm install
 web: yarn start
 ios: yarn ios or 
 android: yarn andriod
-```sh
+```
 
 #To run the test cases
 
 ```sh
 yarn test
-```sh
+```
 
 # Additional Resources
 # NativeBase Expo Template
