@@ -19,6 +19,7 @@ const HomePage = ({feedData}) => {
 
                 const newsRespose = await fetch(api, {
                     headers: {
+                        "Content-type": "application/x-www-form-urlencoded",
                         "X-Api-Key": API_KEY 
                     }
                 });
