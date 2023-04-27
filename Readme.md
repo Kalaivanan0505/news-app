@@ -17,6 +17,11 @@ android: yarn andriod
 ```sh
 yarn test
 ```
+# Note
+
+```sh
+I have added app screen recording and screenshot in output folder 
+```
 
 # Additional Resources
 # NativeBase Expo Template
